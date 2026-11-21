@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "lightgbm>=4.7.0",
+    "lightning>=2.6.6",
     "matplotlib>=3.11.2",
     "pandas>=3.1.1",
     "scikit-learn>=1.9.1",
